@@ -1,0 +1,34 @@
+{
+    "peliculas": [
+        {
+            "id": 1,
+            "nombre": "El padrino",
+            "director": "Francis Ford Coppola",
+            "clasificacion": "Drama"
+        },
+        {
+            "id": 2,
+            "nombre": "Inception",
+            "director": "Christopher Nolan",
+            "clasificacion": "Ciencia Ficción"
+        },
+        {
+            "id": 3,
+            "nombre": "Titanic",
+            "director": "James Cameron",
+            "clasificacion": "Romance"
+        },
+        {
+            "id": 4,
+            "nombre": "El Señor de los Anillos: La Comunidad del Anillo",
+            "director": "Peter Jackson",
+            "clasificacion": "Fantasía"
+        },
+        {
+            "id": 5,
+            "nombre": "Pulp Fiction",
+            "director": "Quentin Tarantino",
+            "clasificacion": "Crimen"
+        }
+    ]
+}
